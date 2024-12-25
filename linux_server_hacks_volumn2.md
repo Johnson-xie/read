@@ -26,3 +26,10 @@ cat /dev/null > filename
 multixterm -xc "ssh %n" host1 host2
 ```
 
+
+
+macos install multixterm
+
+```shell
+```
+
