@@ -16,7 +16,6 @@ ssh-add -l
 ssh-add {private-key}
 
 ssh -A root@{first_node}
-
 ssh root@{second}
 
 # local config: ~/.ssh/config
