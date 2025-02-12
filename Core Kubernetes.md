@@ -6,19 +6,24 @@
 
 
 
+## 2024-12-27
+
+### C9
+
+ kubelet配置：/etc/containerd/config.toml
+
+
+
 ## 2024-12-18
 
 1. cgroup
    1. 静态pod: */etc/kubernetes/manifests*
-2. 
-
-
 
 
 
 ## 2024-12-15
 
-C4:
+### C4
 
 question:
 
